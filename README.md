@@ -12,9 +12,9 @@ It combines classification using **Random Forest** and regression using **XGBoos
 
 ## 📁 Files
 
-- `02f0e97d-c8f4-4988-8cca-5a44b8922f1f.py`: Main script for data preprocessing, model training, and evaluation.
+- `Prediction.py`: Main script for data preprocessing, model training, and evaluation.
 - `dataset_excavate.xlsx`: Excel dataset containing chemical compositions and band gap values.
-- `7d419f2f-ca80-45ed-8df7-db836b5fb481.csv`: Final prediction results (only for insulators).
+- `Insulator_Test_Results.csv`: Final prediction results (only for insulators).
 
 ---
 
